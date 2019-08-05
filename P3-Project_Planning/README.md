@@ -9,10 +9,10 @@ For this assignment, you'll create some initial plans for your project.
 ### Wireframes
 
 The linked PDF includes:
-*Landing Page
-*Sign Up Page
-*User Profile Page
-*Create Event or Special page
+* Landing Page
+* Sign Up Page
+* User Profile Page
+* Create Event or Special page
 
 [Wireframes](./Wireframes.pdf)
 
