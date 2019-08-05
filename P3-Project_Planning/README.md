@@ -8,12 +8,20 @@ For this assignment, you'll create some initial plans for your project.
 
 ### Wireframes
 
-Include at least 3 wireframes here, adding images or files to your repository as necessary. Format them as a bulleted/unordered list with links to the files.
+The linked PDF includes:
+*Landing Page
+*Sign Up Page
+*User Profile Page
+*Create Event or Special page
+
+[Wireframes](./Wireframes.pdf)
+
+
 
 ### Project Tracker
 
-Include a link to your public Trello board. Be sure you have user stories added for at least your first 2-week sprint.
+[Trello Board](https://trello.com/b/DBDFp0e1/liftoff-project)
 
 ### Project Repo Link
 
-Include a link to your project on GitHub.
+[GitHub](https://github.com/jbx27/MeetUpMenu)
